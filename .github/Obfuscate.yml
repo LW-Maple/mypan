@@ -1,7 +1,7 @@
 name: Build Obfuscate BPB Panel
 
 on:
-  push:
+  commit:
     branches:
       - main
   schedule:
